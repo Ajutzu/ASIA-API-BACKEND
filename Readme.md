@@ -63,7 +63,7 @@ All analytics endpoints are prefixed with `/api/analytics`
 | `/total-students` | GET | Get the total number of students |
 | `/average-grade` | GET | Get the average grade across all students |
 | `/attendance-rate` | GET | Get the overall attendance rate |
-| `/top-performers` | GET | Get list of top performing students |
+| `/top-performers` | GET | Count the top performing students grade > 90 |
 | `/monthly-grade-trend` | GET | Get monthly grade trends |
 | `/grade-distribution` | GET | Get distribution of grades |
 | `/attendance-breakdown` | GET | Get detailed attendance breakdown |
