@@ -104,6 +104,3 @@ The server uses nodemon for development, which automatically restarts the server
 - mysql2: ^3.14.1
 - colors: ^1.4.0
 - nodemon: ^3.1.10
-
-## License
-ISC
