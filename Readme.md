@@ -98,9 +98,9 @@ In case of errors, the API will return:
 The server uses nodemon for development, which automatically restarts the server when changes are detected.
 
 ## Dependencies
-- express: ^5.1.0
-- cors: ^2.8.5
-- dotenv: ^16.5.0
-- mysql2: ^3.14.1
-- colors: ^1.4.0
-- nodemon: ^3.1.10
+- `express`: ^5.1.0
+- `cors`: ^2.8.5
+- `dotenv`: ^16.5.0
+- `mysql2`: ^3.14.1
+- `colors`: ^1.4.0
+- `nodemon`: ^3.1.10
